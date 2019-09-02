@@ -1,6 +1,6 @@
-require_relative "./customer"
-require_relative "./waiter"
-require_relative "./meal"
+require_relative "./lib/customer"
+require_relative "./lib/waiter"
+require_relative "./lib/meal"
 
 
 require 'pry'
